@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     int mark1, mark2, mark3, mark4, mark5;
     float average;
@@ -19,3 +18,4 @@ int main() {
     return 0;
 
 }
+
